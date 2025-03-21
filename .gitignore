@@ -1,0 +1,47 @@
+# Ignore Visual Studio-specific files
+.vs/
+*.user
+*.suo
+*.vssscc
+*.cache
+*.csproj.user
+*.dbmdl
+*.pdb
+
+# Ignore build outputs
+bin/
+obj/
+*.dll
+*.exe
+*.log
+*.appx
+*.appxupload
+*.msix
+*.msixupload
+*.msixbundle
+*.appxbundle
+
+# Ignore package management folders
+node_modules/
+packages/
+wwwroot/node_modules/
+dist/
+out/
+bower_components/
+
+# Ignore user-specific settings
+*.rsuser
+*.sln.docstates
+*.sln.ide
+.idea/
+*.orig
+*.swp
+*.swo
+
+# Ignore NuGet-related files
+*.nupkg
+*.snupkg
+.nuget/
+project.lock.json
+pr
+asg-tevc-amn
